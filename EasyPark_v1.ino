@@ -1,5 +1,5 @@
-//Programa: Conectando Sensor Ultrassonico HC-SR04 ao Arduino
-//Autor: FILIPEFLOP
+//Programa: Monitoramento de vagas em tempo real
+//Autor: LuizFritsch
  
 //Carrega a biblioteca do sensor ultrassonico
 #include <Ultrasonic.h>
